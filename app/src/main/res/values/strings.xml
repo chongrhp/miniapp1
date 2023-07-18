@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiniApp</string>
+    <string name="log_lable">Login</string>
+    <string name="mnu_vocab">vocab</string>
+    <string name="mnu_phrases">phrases</string>
+    <string name="mnu_numbers">numbers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
